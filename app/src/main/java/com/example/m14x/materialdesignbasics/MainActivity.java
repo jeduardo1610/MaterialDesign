@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
         // adding toolbar to Main Screen
         toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
-        //setting ViewPager for each Tabs
+        //setting ViewPager for each Tabss
         viewPager = (ViewPager) findViewById(R.id.viewpager);
         setupViewPager(viewPager);
         //set Tabs inside Toolbar
