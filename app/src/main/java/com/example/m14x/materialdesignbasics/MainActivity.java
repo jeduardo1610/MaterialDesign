@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
         tabs.setupWithViewPager(viewPager);
 
         /*
-        //Setting Tabs manually
+        //Setting Tabs manuallyasd
         tabs.addTab(tabs.newTab().setText("Tab 1"));
         tabs.addTab(tabs.newTab().setText("Tab 2"));
         tabs.addTab(tabs.newTab().setText("Tab 3"));
